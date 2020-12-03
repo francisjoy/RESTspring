@@ -1,2 +1,2 @@
 # RESTspring
- REST API in java to insert and retrieve some data from a database table. 
+ REST API in java to insert and retrieve data from SQL database table. 
